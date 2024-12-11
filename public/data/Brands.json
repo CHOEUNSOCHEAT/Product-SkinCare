@@ -1,0 +1,76 @@
+[
+    {
+        "id": "1", 
+        "name": " COSRX",
+        "image": "https://www.tofusecret.com/wp-content/uploads/2020/04/cosrx_hover.png"
+    },
+    {
+        "id": "2", 
+       "name": "LANEIGE",
+
+        "image": "https://www.tofusecret.com/wp-content/uploads/2020/04/laneige.png"
+    },
+    {
+        "id": "3", 
+        "name": "DR.Jart+",
+
+        "image": "https://www.tofusecret.com/wp-content/uploads/2020/04/drjart.png"
+    },
+    {
+        "id": "4", 
+       "name": "Innisfree",
+      
+        "image": "https://www.tofusecret.com/wp-content/uploads/2020/04/innisfree.png"
+    },
+    {
+        "id": "5", 
+        "name": "SK-II",
+       
+        "image": "https://www.tofusecret.com/wp-content/uploads/2020/08/Banila-Co-Clean-It-Zero-Special-Duo_1.jpg"
+    },
+    {
+        "id": "6", 
+        "name": "Shiseido ",
+       
+        "image": "https://www.tofusecret.com/wp-content/uploads/2020/06/shiseido_hover.png"
+    },
+    {
+        "id": "7", 
+        "name": "Gold Energy Snail Synergy ",
+       
+        "image": "https://www.tofusecret.com/wp-content/uploads/2020/06/goldenergy_hover.png"
+    },
+    {
+        "id": "8", 
+        "name": "Sulwhasoo",
+       
+        "image": "https://www.tofusecret.com/wp-content/uploads/2020/06/sulwhasoo_hover.png"
+    },
+
+    {
+        "id": "9", 
+        "name": "IT's Skin",
+       
+        "image": "https://www.tofusecret.com/wp-content/uploads/2020/06/itsskin_hover.png"
+    },
+    {
+        "id": "10", 
+        "name": "MediHeal",
+       
+        "image": "https://www.tofusecret.com/wp-content/uploads/2020/06/mediheal_hover.png"
+    },
+    {
+        "id": "11", 
+        "name": "SENKA",
+     
+        "image": "https://www.tofusecret.com/wp-content/uploads/2020/06/senka_hover.png"
+    },
+    {
+        "id": "12", 
+        "name": "JM Solution",
+       
+        "image": "https://www.tofusecret.com/wp-content/uploads/2020/04/jmsolution.png"
+    }
+   
+
+ ]

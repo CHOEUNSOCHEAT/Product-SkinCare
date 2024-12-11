@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  /* Smooth transition for text color change */
+  .navbar-nav .nav-item {
+      transition: color 0.3s ease;
+    }

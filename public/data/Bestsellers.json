@@ -1,0 +1,104 @@
+[
+
+    
+    {
+        "id": "1", 
+        "name": "Bergamot and Jasmine Hand",
+        "price": "18.24",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12226513-3635192190074838.jpg"
+    },
+    {
+        "id": "2", 
+        "name": "Bergamot and Jasmine Body",
+        "price": "21.06",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12226516-1035192190969117.jpg"
+    },
+    {
+        "id": "3", 
+        "name": "Purifying Shampo",
+        "price": "120.95",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/11553610-2005192195432850.jpg"
+    },
+    {
+        "id": "4", 
+        "name": "Tighten Body Serum",
+        "price": "36.70",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12706848-2055192385211791.jpg"
+    },
+   
+    {
+        "id": "5", 
+        "name": "Bergamot and Jasmine Bath",
+        "price": "20.75",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12226515-3345192190533322.jpg"
+    },
+    {
+        "id": "6", 
+        "name": " Optimal Skin Pro-Cleanser",
+        "price": "64.04",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12367341-7715192200523031.jpg"
+    },
+    {
+        "id": "7", 
+        "name": "Bio-Active Eye Cleanser ",
+        "price": "37.02",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12226511-1715192189566215.jpg"
+    },
+    {
+        "id": "8", 
+        "name": "Optimal Skin Pro-Cleanser",
+        "price": "32.02",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12595872-2165192212112871.jpg"
+    },
+
+    {
+        "id": "9", 
+        "name": "Nourishing Cleansing Balm",
+        "price": "42.92",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12226520-4415192191098699.jpg"
+    },
+    {
+        "id": "10", 
+        "name": "Tri-Active Moisturiser",
+        "price": "50.79",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12226503-2085192205870807.jpg"
+    },
+    {
+        "id": "11", 
+        "name": "Replenishing Moisturiser",
+        "price": "48.76",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12226493-2035192201851251.jpg"
+    },
+    {
+        "id": "12", 
+        "name": "Pomelo Lip Balm",
+        "price": "13.02",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12226528-5245192192431695.jpg"
+    },
+    {
+        "id": "13", 
+        "name": " Soothing Pulse Oil",
+        "price": "50.90",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12062215-5735192196152670.jpg"
+    },
+    {
+        "id": "14", 
+        "name": "Restorative Pulse Oil",
+        "price": "36.77",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12062217-4825192196324789.jpg"
+    },
+    {
+        "id": "15", 
+        "name": "Restful pulse Point Oil",
+        "price": "53.90",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12454574-2025192202453093.jpg"
+    },
+    {
+        "id": "16", 
+        "name": "Positivity pulse Point Oil ",
+        "price": "46.80",
+        "image": "https://static.thcdn.com/images/small/webp//productimg/original/12062212-2035192195747985.jpg"
+    }
+
+
+ ]
